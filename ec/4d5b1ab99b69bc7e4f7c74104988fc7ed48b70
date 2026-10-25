@@ -1,0 +1,116 @@
+.gitignore
+  h_187d559c93e780 1-7
+assets/AboutPage-DYzezGUR.js
+  h_187d559c93e780 1-3
+assets/AdminCategories-CH6CcLxs.js
+  h_187d559c93e780 1
+assets/AdminDashboard-DvzL72cW.js
+  h_187d559c93e780 1
+assets/AdminHeroImages-CdGWO57G.js
+  h_187d559c93e780 1
+assets/AdminProducts-CGTCS5Up.js
+  h_187d559c93e780 1
+assets/AdminRates-CJ4RSFdM.js
+  h_187d559c93e780 1
+assets/AdminSettings-BGjQuKEF.js
+  h_187d559c93e780 1
+assets/HomePage-Bl9sFe5D.css
+  h_187d559c93e780 1
+assets/HomePage-Dw_cCxcq.js
+  h_187d559c93e780 1-18
+assets/LiveRatePage-CQ3NzUNs.js
+  h_187d559c93e780 1
+assets/ProductDetailsPage-CIzKU3VR.js
+  h_187d559c93e780 1
+assets/SectionHeading-C_Toi5e8.js
+  h_187d559c93e780 1
+assets/ShopPage-CONRq4pT.js
+  h_187d559c93e780 1
+assets/index-DDCq9Ux9.js
+  h_187d559c93e780 1-80
+assets/index-DaZ3t2Mv.css
+  h_187d559c93e780 1
+assets/slick-BlzDm7g2.svg
+  h_187d559c93e780 1-14
+client/dist/images/.gitkeep
+  h_187d559c93e780 1
+client/public/images/.gitkeep
+  h_187d559c93e780 1
+icons/bag-2.svg
+  h_187d559c93e780 1
+icons/bag.svg
+  h_187d559c93e780 1
+icons/cart-2.svg
+  h_187d559c93e780 1
+icons/cart-dark.svg
+  h_187d559c93e780 1
+icons/cart.svg
+  h_187d559c93e780 1
+icons/clock-2.svg
+  h_187d559c93e780 1
+icons/clock.svg
+  h_187d559c93e780 1
+icons/edit.svg
+  h_187d559c93e780 1
+icons/email.svg
+  h_187d559c93e780 1
+icons/facebook.svg
+  h_187d559c93e780 1
+icons/google.svg
+  h_187d559c93e780 1
+icons/hr.svg
+  h_187d559c93e780 1
+icons/icons8-whatsapp.svg
+  h_187d559c93e780 1
+icons/instagram.svg
+  h_187d559c93e780 1
+"icons/location (1).svg"
+  h_187d559c93e780 1-16
+icons/location-pointer-svgrepo-com.svg
+  h_187d559c93e780 1
+icons/location.svg
+  h_187d559c93e780 1
+icons/location123.svg
+  h_187d559c93e780 1
+icons/logo.svg
+  h_187d559c93e780 1
+icons/next.svg
+  h_187d559c93e780 1
+icons/phone-2.svg
+  h_187d559c93e780 1
+icons/phone.svg
+  h_187d559c93e780 1
+icons/pre.svg
+  h_187d559c93e780 1
+icons/search.svg
+  h_187d559c93e780 1
+icons/shadow-sm.svg
+  h_187d559c93e780 1
+icons/shadow.svg
+  h_187d559c93e780 1
+icons/star-grey.svg
+  h_187d559c93e780 1
+icons/start-filled.svg
+  h_187d559c93e780 1
+icons/transport.svg
+  h_187d559c93e780 1
+icons/twitter.svg
+  h_187d559c93e780 1
+icons/usd.svg
+  h_187d559c93e780 1
+icons/user-icon.svg
+  h_187d559c93e780 1
+index.html
+  h_187d559c93e780 1-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ec4d5b1ab99b69bc7e4f7c74104988fc7ed48b70",
+  "prompts": {},
+  "humans": {
+    "h_187d559c93e780": {
+      "author": "sobhavesh <bhavesh.soni@coupa.com>"
+    }
+  }
+}
